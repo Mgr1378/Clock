@@ -1,7 +1,7 @@
 # TwoClocks
 12&amp;24hourClock
 
-Summarize the project and what problem it was solving;
+Summarize the project and what problem it was solving:
   This project was made to show to slocks on the screen at the same time. One clock in 12 hour format and the other in 24 hour format.
   
 What did you do particularly well?
