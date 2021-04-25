@@ -1,4 +1,4 @@
-# Clock
+# TwoClocks
 12&amp;24hourClock
 
 Summarize the project and what problem it was solving:
